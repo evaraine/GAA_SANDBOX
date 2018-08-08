@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_29oMIZr3Eei23Pesnr0sWw" label="GAA_SANDBOX" description="test du Talend Cloud platform" language="java" technicalLabel="GAA_SANDBOX" author="_29oMIpr3Eei23Pesnr0sWw" productVersion="Talend Cloud Data Management Platform-7.0.1.20180712_0921-patch" url="{&quot;location&quot;:&quot;https://github.com/evaraine/GAA_SANDBOX.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false"/>
+  <TalendProperties:User xmi:id="_29oMIpr3Eei23Pesnr0sWw" login="evaraine@trial01724.eu.talend.com" firstName="Eric" lastName="Varaine" type="DQ"/>
+</xmi:XMI>
